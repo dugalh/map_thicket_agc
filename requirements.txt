@@ -24,7 +24,7 @@ numpy==1.20.2
 olefile==0.46
 openpyxl==3.0.7
 pandas==1.2.3
-Pillow==8.1.2
+Pillow==8.2.0
 pip==21.0.1
 pylint==2.6.0
 pyparsing==2.4.7
